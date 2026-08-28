@@ -2,4 +2,5 @@ configMap:
   MONGO_URL: "mongodb://mongodb:27017/catalogue"
 deployment:
   imageVersion: "1.7.0"
+imageName: "786020472029.dkr.ecr.us-east-1.amazonaws.com/roboshop/catalogue"
 namespace: roboshop-dev
