@@ -3,4 +3,4 @@ configMap:
 deployment:
   replicas: "1"
   imageName: "786020472029.dkr.ecr.us-east-1.amazonaws.com/roboshop/catalogue"
-  imageVersion: "1.7.0"
+  imageVersion: "1.0.0"
